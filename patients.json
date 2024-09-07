@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "gender": "M",
+        "medical_record": "Heart Condition",
+        "treatment_plan": [
+            "Medication A",
+            "Lifestyle Change"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 45,
+        "gender": "F",
+        "medical_record": "Diabetes Type 2",
+        "treatment_plan": [
+            "Medication B",
+            "Exercise"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Alice Green",
+        "age": 40,
+        "gender": "F",
+        "medical_record": "Migraines",
+        "treatment_plan": []
+    },
+    {
+        "id": 4,
+        "name": "Alice Green",
+        "age": 40,
+        "gender": "F",
+        "medical_record": "Migraines",
+        "treatment_plan": []
+    }
+]
